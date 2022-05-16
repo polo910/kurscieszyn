@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 #right{
     width: 200px;
     right: 200px;
     background-color: green;
     float: right;
     margin: 20px;
+=======
+#left{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    
+>>>>>>> 3db790c (zmiany z lewej)
 }
