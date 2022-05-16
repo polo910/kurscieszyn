@@ -1,0 +1,7 @@
+#right{
+    width: 200px;
+    right: 200px;
+    background-color: green;
+    float: right;
+    margin: 20px;
+}
